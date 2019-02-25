@@ -1,4 +1,4 @@
-# ARM-64-bit-CPU
+# ARM 64 bit CPU (Completed Dec 2018)
 
 I designed a 64-bit five-stage pipeline CPU based on a selection of the ARM instruction set using structural modeled SystemVerilog (expect for the control logic which was built from case statements).
 
